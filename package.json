@@ -1,0 +1,22 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.1",
+  "description": "Telegram bot ",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fast",
+    "secure",
+    "simple"
+  ],
+  "author": "Strange",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cron": "^1.8.2",
+    "node-fetch": "^3.0.0",
+    "telebot": "^1.4.1"
+  }
+}
