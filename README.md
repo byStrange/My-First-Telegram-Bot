@@ -8,6 +8,6 @@ Telegram Bot
 <h1>Then</h1>
 <p>Open the <a href="th://">Telegram</a> on your computer or phone</p>
 <p>Go to the my <a href="https://t.me/pray_time_robot">bot</a> and start using </p>
-<h1 style="color: rgba(255,20,20,.7)">Note</h1>
+<h1>Note</h1>
 
 <p>Note that you must not close command prompt. Else Bot will not work</p>
