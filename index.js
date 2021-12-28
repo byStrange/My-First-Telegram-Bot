@@ -18,7 +18,7 @@ bot.on(['/start'], (msg) => {
         // 	msg.reply.text('You pressed /start; Thats why lets go');
         // 	job.start();
         // }
-        axios.get('https://api.pray.zone/v2/times/today.json?city=tashkent').then(r => {
+        axios.get('https://api.pray.zone/v2/times/today.json?city=andijan').then(r => {
 
             var times = r.data.results.datetime[0].times
             a = `📢 ${times['Sunrise']} da Tong otmoqda
