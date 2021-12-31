@@ -1,5 +1,5 @@
 const axios = require('axios')
-TELEGRAM_BOT_TOKEN = '2082724050:AAGG4QQoh_OytoAliEkOGRSzPO523m65EXQ';
+TELEGRAM_BOT_TOKEN = 'Your token here';
 const TeleBot = require('telebot');
 const bot = new TeleBot(TELEGRAM_BOT_TOKEN);
 const chatIds = [];
